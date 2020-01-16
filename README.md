@@ -6,13 +6,17 @@ Application to show how to switch between different keyboards on the fly using t
 - AOSP Keyboard: The keyboard available as part of standard Android AOSP (com.android.inputmethod.latin)
 
 ![Enterprise Keyboard](https://raw.githubusercontent.com/darryncampbell/KeyboardSwitcher/master/screenshots/ekb.jpg)
+
 Enterprise Keyboard
 
 ![GBoard](https://raw.githubusercontent.com/darryncampbell/KeyboardSwitcher/master/screenshots/gboard.jpg)
+
 GBoard
 
 ![AOSP](https://raw.githubusercontent.com/darryncampbell/KeyboardSwitcher/master/screenshots/aosp.jpg)
+
 AOSP Keyboard
 
 [![Audi R8](http://img.youtube.com/vi/CbxTqthuK_M/0.jpg)](https://www.youtube.com/watch?v=CbxTqthuK_M "Keyboard Switcher")
+
 Keyboard switching demo
