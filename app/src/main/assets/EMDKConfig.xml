@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!--This is an auto generated document. Changes to this document may cause incorrect behavior.--><wap-provisioningdoc>
+  <characteristic type="ProfileInfo">
+    <parm name="created_wizard_version" value="7.3.2"/>
+  </characteristic>
+  <characteristic type="Profile">
+    <parm name="ProfileName" value="KeyboardEKB"/>
+    <parm name="ModifiedDate" value="2020-01-16 13:38:32"/>
+    <parm name="TargetSystemVersion" value="4.4"/>
+    <characteristic type="UiMgr" version="4.3">
+      <parm name="emdk_name" value="ekb"/>
+      <parm name="InputMethodAction" value="1"/>
+      <characteristic type="InputMethodDetails">
+        <parm name="InputMethodOption" value="4"/>
+        <parm name="InputMethodPackageName" value="com.symbol.mxmf.csp.enterprisekeyboard"/>
+        <parm name="InputMethodClassName" value="com.android.inputmethod.latin.LatinIME"/>
+      </characteristic>
+    </characteristic>
+  </characteristic>
+  <characteristic type="Profile">
+    <parm name="ProfileName" value="KeyboardGBoard"/>
+    <parm name="ModifiedDate" value="2020-01-16 13:46:49"/>
+    <parm name="TargetSystemVersion" value="4.4"/>
+    <characteristic type="UiMgr" version="4.3">
+      <parm name="emdk_name" value="gboard"/>
+      <parm name="InputMethodAction" value="1"/>
+      <characteristic type="InputMethodDetails">
+        <parm name="InputMethodOption" value="4"/>
+        <parm name="InputMethodPackageName" value="com.google.android.inputmethod.latin"/>
+        <parm name="InputMethodClassName" value="com.android.inputmethod.latin.LatinIME"/>
+      </characteristic>
+    </characteristic>
+  </characteristic>
+  <characteristic type="Profile">
+    <parm name="ProfileName" value="KeyboardAOSP"/>
+    <parm name="ModifiedDate" value="2020-01-16 13:50:42"/>
+    <parm name="TargetSystemVersion" value="4.4"/>
+    <characteristic type="UiMgr" version="4.3">
+      <parm name="emdk_name" value="aosp"/>
+      <parm name="InputMethodAction" value="1"/>
+      <characteristic type="InputMethodDetails">
+        <parm name="InputMethodOption" value="4"/>
+        <parm name="InputMethodPackageName" value="com.android.inputmethod.latin"/>
+        <parm name="InputMethodClassName" value="com.android.inputmethod.latin.LatinIME"/>
+      </characteristic>
+    </characteristic>
+  </characteristic>
+</wap-provisioningdoc>
