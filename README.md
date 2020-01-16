@@ -13,3 +13,6 @@ GBoard
 
 ![AOSP](https://raw.githubusercontent.com/darryncampbell/KeyboardSwitcher/master/screenshots/aosp.jpg)
 AOSP Keyboard
+
+[![Audi R8](http://img.youtube.com/vi/CbxTqthuK_M/0.jpg)](https://www.youtube.com/watch?v=CbxTqthuK_M "Keyboard Switcher")
+Keyboard switching demo
