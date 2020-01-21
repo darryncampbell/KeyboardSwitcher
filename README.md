@@ -1,3 +1,6 @@
+*This application is provided without guarantee or warranty*
+=========================================================
+
 # KeyboardSwitcher
 Application to show how to switch between different keyboards on the fly using the Zebra MX UI Manager and Profile API.  GBoard, AOSP Keyboard, Zebra's Enterprise Keyboard
 
